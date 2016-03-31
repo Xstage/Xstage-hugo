@@ -1,0 +1,10 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://Xstage.github.io"
+title: "Webpage of the 'Experimental Stage Project'"
+canonifyurls: true
+---
