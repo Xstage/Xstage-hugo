@@ -71,7 +71,7 @@ theme = "hugo-agency-theme"
 
 	# Services section
 	[params.services]
-        enable = false
+        enable = true
 		title = "Services"
 		subtitle = "Lorem ipsum dolor sit amet consectetur."
 
@@ -111,7 +111,7 @@ theme = "hugo-agency-theme"
 
     # About section
 	[params.about]
-        enable = false
+        enable = true
 		title = "About"
 		subtitle = "Lorem ipsum dolor sit amet consectetur."
 		endpoint = "Be part<br>of our<br>story!"
@@ -185,7 +185,7 @@ theme = "hugo-agency-theme"
 
 	# Client section
     [params.clients_list]
-        enable = false
+        enable = true
 
     	# All the clients' logos are stored under 'static/img/logos'.
     	# Replace them with your clients's logos.
@@ -233,7 +233,7 @@ theme = "hugo-agency-theme"
 
 	# Footer section
 	[params.footer]
-        enable = false
+        enable = true
 		copyright = "Published under the Apache License 2.0."
 
 		[[params.footer.social]]
